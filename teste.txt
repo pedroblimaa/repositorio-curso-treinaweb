@@ -1,4 +1,0 @@
-Meu primeiro arquivo..
-Essa é uma nova linha, para tentar fazer o push
-#la vem os bugs
-Carai, esqueci da mensagem de commit
